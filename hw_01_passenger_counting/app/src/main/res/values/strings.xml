@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counting Passengers Entering The Bus</string>
+    <string name="all_places_are_free">Все места свободны</string>
+    <string name="reset">Сброс</string>
+    <string name="available_seats">Осталось мест:</string>
+    <string name="all_seats_occupied">Пассажиров слишком много!</string>
+</resources>
